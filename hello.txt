@@ -1,0 +1,2 @@
+ls -a check for git
+rm -r .git remove git
